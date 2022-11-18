@@ -1,0 +1,1975 @@
+kalimat lengkap :
+P
+kalimat lengkap :
+Salam
+all label:
+[{'start': 0, 'end': 5, 'text': 'Salam', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+6
+kalimat :Salam
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Semoga membantu ya
+all label:
+[{'start': 0, 'end': 15, 'text': 'Semoga membantu', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+19
+kalimat :Semoga membantu ya
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+    Hindari konsumsi Alkohol dan rokok
+all label:
+[{'start': 4, 'end': 38, 'text': 'Hindari konsumsi Alkohol dan rokok', 'labels': ['Tindakan']}, {'start': 21, 'end': 28, 'text': 'Alkohol', 'labels': ['Objek']}, {'start': 33, 'end': 38, 'text': 'rokok', 'labels': ['Objek']}]
+start_pointer:
+0
+end_pointer:
+39
+kalimat :    Hindari konsumsi Alkohol dan rokok
+labelnya:
+{'Objek', 'Tindakan'}
+
+
+kalimat lengkap :
+    Olahraga rutin
+all label:
+[{'start': 4, 'end': 18, 'text': 'Olahraga rutin', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+19
+kalimat :    Olahraga rutin
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Jaga asupan nutrisi
+all label:
+[{'start': 4, 'end': 23, 'text': 'Jaga asupan nutrisi', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+24
+kalimat :    Jaga asupan nutrisi
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Sering berinteraksi dengan orang sekitar anda
+all label:
+[{'start': 4, 'end': 49, 'text': 'Sering berinteraksi dengan orang sekitar anda', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+50
+kalimat :    Sering berinteraksi dengan orang sekitar anda
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Mengelola stres dengan baik
+all label:
+[{'start': 4, 'end': 31, 'text': 'Mengelola stres dengan baik', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+32
+kalimat :    Mengelola stres dengan baik
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Anda bisa menuliskan apa yang hendak anda kerjakan atau menuliskannya di catatan smartphone anda sehingga anda tau apa yang anda hendak kerjakan
+all label:
+[{'start': 4, 'end': 54, 'text': 'Anda bisa menuliskan apa yang hendak anda kerjakan', 'labels': ['Tindakan']}, {'start': 60, 'end': 95, 'text': 'menuliskannya di catatan smartphone', 'labels': ['Tindakan']}, {'start': 101, 'end': 139, 'text': 'sehingga anda tau apa yang anda hendak', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+149
+kalimat :    Anda bisa menuliskan apa yang hendak anda kerjakan atau menuliskannya di catatan smartphone anda sehingga anda tau apa yang anda hendak kerjakan
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+    Kerjakan sesuatu dengan fokus mulai dari melakukan hal kecil, selesaikan satu persatu yang hendak anda kerjakan.
+all label:
+[{'start': 4, 'end': 33, 'text': 'Kerjakan sesuatu dengan fokus', 'labels': ['Tindakan']}, {'start': 66, 'end': 89, 'text': 'selesaikan satu persatu', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+117
+kalimat :    Kerjakan sesuatu dengan fokus mulai dari melakukan hal kecil, selesaikan satu persatu yang hendak anda kerjakan.
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Istirahat cukup, hindari untuk tidur larut malam
+all label:
+[{'start': 4, 'end': 20, 'text': 'Istirahat cukup,', 'labels': ['Tindakan']}, {'start': 21, 'end': 52, 'text': 'hindari untuk tidur larut malam', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+53
+kalimat :    Istirahat cukup, hindari untuk tidur larut malam
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Minimalisir aktivitas fisik yang berat dan melelahkan
+all label:
+[{'start': 4, 'end': 57, 'text': 'Minimalisir aktivitas fisik yang berat dan melelahkan', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+58
+kalimat :    Minimalisir aktivitas fisik yang berat dan melelahkan
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+Saat ini, adapun beberapa anjuran yang dapat anda lakukan, seperti :
+kalimat lengkap :
+Sebaiknya, untuk memastikan kondisi anda saat ini, Anda dapat berkonsultasi dengan dokter. Anda dapat berkonsultasi dengan dokter psikiatri dengan langsung bertemu tatap muka, ataupun Anda dapat berkonsultasi melalui fitur chat yang ada di Alodokter. Dokter akan dapat mengevaluasi lebih lanjut sehingga dapat memberikan penanganan yang sesuai.
+all label:
+[{'start': 51, 'end': 75, 'text': 'Anda dapat berkonsultasi', 'labels': ['Tindakan']}, {'start': 102, 'end': 129, 'text': 'berkonsultasi dengan dokter', 'labels': ['Tindakan']}, {'start': 195, 'end': 227, 'text': 'berkonsultasi melalui fitur chat', 'labels': ['Tindakan']}, {'start': 251, 'end': 281, 'text': 'Dokter akan dapat mengevaluasi', 'labels': ['Tindakan']}, {'start': 304, 'end': 331, 'text': 'dapat memberikan penanganan', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+91
+kalimat :Sebaiknya, untuk memastikan kondisi anda saat ini, Anda dapat berkonsultasi dengan dokter.
+labelnya:
+{'Tindakan'}
+
+
+start_pointer:
+91
+end_pointer:
+251
+kalimat :Anda dapat berkonsultasi dengan dokter psikiatri dengan langsung bertemu tatap muka, ataupun Anda dapat berkonsultasi melalui fitur chat yang ada di Alodokter.
+labelnya:
+{'Tindakan'}
+
+
+start_pointer:
+251
+end_pointer:
+345
+kalimat :Dokter akan dapat mengevaluasi lebih lanjut sehingga dapat memberikan penanganan yang sesuai.
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Sering mengkonsumsi alkohol
+all label:
+[{'start': 4, 'end': 31, 'text': 'Sering mengkonsumsi alkohol', 'labels': ['Penyebab']}, {'start': 24, 'end': 31, 'text': 'alkohol', 'labels': ['Objek']}]
+start_pointer:
+0
+end_pointer:
+32
+kalimat :    Sering mengkonsumsi alkohol
+labelnya:
+{'Objek', 'Penyebab'}
+
+
+kalimat lengkap :
+    Kurang konsumsi vitamin B12
+all label:
+[{'start': 20, 'end': 31, 'text': 'vitamin B12', 'labels': ['Objek']}, {'start': 4, 'end': 31, 'text': 'Kurang konsumsi vitamin B12', 'labels': ['Penyebab']}]
+start_pointer:
+0
+end_pointer:
+32
+kalimat :    Kurang konsumsi vitamin B12
+labelnya:
+{'Objek', 'Penyebab'}
+
+
+kalimat lengkap :
+    Gangguan emosi
+all label:
+[{'start': 4, 'end': 18, 'text': 'Gangguan emosi', 'labels': ['Penyebab']}]
+start_pointer:
+0
+end_pointer:
+19
+kalimat :    Gangguan emosi
+labelnya:
+{'Penyebab'}
+
+
+kalimat lengkap :
+    Banyak konsumsi beberapa obat
+all label:
+[{'start': 4, 'end': 33, 'text': 'Banyak konsumsi beberapa obat', 'labels': ['Penyebab']}]
+start_pointer:
+0
+end_pointer:
+34
+kalimat :    Banyak konsumsi beberapa obat
+labelnya:
+{'Penyebab'}
+
+
+kalimat lengkap :
+    Kurangnya tidur
+all label:
+[{'start': 4, 'end': 19, 'text': 'Kurangnya tidur', 'labels': ['Penyebab']}]
+start_pointer:
+0
+end_pointer:
+20
+kalimat :    Kurangnya tidur
+labelnya:
+{'Penyebab'}
+
+
+kalimat lengkap :
+    Adanya gangguan medis tertentu seperti gangguan hormon tiroid, riwayat cidera kepala
+all label:
+[{'start': 4, 'end': 34, 'text': 'Adanya gangguan medis tertentu', 'labels': ['Gejala']}, {'start': 43, 'end': 66, 'text': 'gangguan hormon tiroid,', 'labels': ['Penyakit']}, {'start': 67, 'end': 81, 'text': 'riwayat cidera', 'labels': ['Penyakit']}]
+start_pointer:
+0
+end_pointer:
+89
+kalimat :    Adanya gangguan medis tertentu seperti gangguan hormon tiroid, riwayat cidera kepala
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+kalimat lengkap :
+Saat ini, karena keterbatasan informasi dan perlunya evaluasi lebih lanjut, sangat perlu dipastikan penyebab kondisi anda saat ini. Karena untuk mendiagnosis suatu penyakit perlunya pemeriksaan mulai dari riwayat medis, pemeriksaan fisik hingga penunjang yang diperlukan. Selain itu, kondisi seperti sering lupa dan tidak fokus juga dapat diakibatkan oleh beberapa kondisis seperti :
+all label:
+[{'start': 83, 'end': 116, 'text': 'perlu dipastikan penyebab kondisi', 'labels': ['Tindakan']}, {'start': 182, 'end': 219, 'text': 'pemeriksaan mulai dari riwayat medis,', 'labels': ['Tindakan']}, {'start': 220, 'end': 237, 'text': 'pemeriksaan fisik', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+132
+kalimat :Saat ini, karena keterbatasan informasi dan perlunya evaluasi lebih lanjut, sangat perlu dipastikan penyebab kondisi anda saat ini.
+labelnya:
+{'Tindakan'}
+
+
+start_pointer:
+132
+end_pointer:
+272
+kalimat :Karena untuk mendiagnosis suatu penyakit perlunya pemeriksaan mulai dari riwayat medis, pemeriksaan fisik hingga penunjang yang diperlukan.
+labelnya:
+{'Tindakan'}
+
+
+start_pointer:
+272
+end_pointer:
+384
+kalimat :Selain itu, kondisi seperti sering lupa dan tidak fokus juga dapat diakibatkan oleh beberapa kondisis seperti :
+labelnya:
+set()
+
+
+kalimat lengkap :
+Gejala ADHD pada anakGejala utama ADHD adalah sulit memusatkan perhatian, serta menunjukkan perilaku hiperaktifdan impulsif. Dimana pada anak dengan ADHD keluhan bertambah parah. Keluhan yang muncul seperti tidak fokus dalam mengerjakan sesuatu, perhatian teralihkan, tidak memperhatikan hal detail, ceroboh dan lain-lain. Pada ADHD yang dialami usia dewasa biasanya sebelumnya pernah mengalami ADHD pada masa kecil.Gejala hiperaktif pada ADHD biasanya akan berkurang seiring bertambahnya usia. Namun sebaliknya, gejala sulit memusatkan perhatian cenderung bertambah parah seiring pertambahan usia.
+all label:
+[{'start': 7, 'end': 11, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 34, 'end': 38, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 46, 'end': 73, 'text': 'sulit memusatkan perhatian,', 'labels': ['Gejala']}, {'start': 80, 'end': 114, 'text': 'menunjukkan perilaku hiperaktifdan', 'labels': ['Gejala']}, {'start': 115, 'end': 124, 'text': 'impulsif.', 'labels': ['Gejala']}, {'start': 207, 'end': 236, 'text': 'tidak fokus dalam mengerjakan', 'labels': ['Gejala']}, {'start': 246, 'end': 267, 'text': 'perhatian teralihkan,', 'labels': ['Gejala']}, {'start': 268, 'end': 299, 'text': 'tidak memperhatikan hal detail,', 'labels': ['Gejala']}, {'start': 300, 'end': 307, 'text': 'ceroboh', 'labels': ['Gejala']}, {'start': 149, 'end': 153, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 328, 'end': 332, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 395, 'end': 399, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 439, 'end': 443, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 520, 'end': 546, 'text': 'sulit memusatkan perhatian', 'labels': ['Gejala']}, {'start': 444, 'end': 467, 'text': 'biasanya akan berkurang', 'labels': ['Outcome']}, {'start': 547, 'end': 572, 'text': 'cenderung bertambah parah', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+125
+kalimat :Gejala ADHD pada anakGejala utama ADHD adalah sulit memusatkan perhatian, serta menunjukkan perilaku hiperaktifdan impulsif.
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+start_pointer:
+125
+end_pointer:
+179
+kalimat :Dimana pada anak dengan ADHD keluhan bertambah parah.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+179
+end_pointer:
+323
+kalimat :Keluhan yang muncul seperti tidak fokus dalam mengerjakan sesuatu, perhatian teralihkan, tidak memperhatikan hal detail, ceroboh dan lain-lain.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+323
+end_pointer:
+495
+kalimat :Pada ADHD yang dialami usia dewasa biasanya sebelumnya pernah mengalami ADHD pada masa kecil.Gejala hiperaktif pada ADHD biasanya akan berkurang seiring bertambahnya usia.
+labelnya:
+{'Outcome', 'Penyakit'}
+
+
+start_pointer:
+495
+end_pointer:
+599
+kalimat :Namun sebaliknya, gejala sulit memusatkan perhatian cenderung bertambah parah seiring pertambahan usia.
+labelnya:
+{'Outcome', 'Gejala'}
+
+
+kalimat lengkap :
+Sering lupa dan kesulitan untuk fokus umumnya sering dialami oleh setiap orang. Selama keluhan tidak mengganggu aktivitas maka hal tersebut wajar terjadi. Namun, apabila keluhan yang terjadi telah berlangsung lama hingga mengganggu aktivitas maka perlu dievaluasi lebih lanjut. Menilik dari apa yang anda sampaikan serta anda keluhkan saat ini, perlu dipahami bahwa Attention deficit hyperactivity disorder(ADHD) merupakan salah satu kelainan perkembangan terbanyak pada masa anak dan dapat berlangsung sampai masa remaja dan dewasa. Umumnya gejala ADHD pada anak sudah muncul sejak usia 3 tahun.
+all label:
+[{'start': 0, 'end': 11, 'text': 'Sering lupa', 'labels': ['Gejala']}, {'start': 16, 'end': 37, 'text': 'kesulitan untuk fokus', 'labels': ['Gejala']}, {'start': 162, 'end': 213, 'text': 'apabila keluhan yang terjadi telah berlangsung lama', 'labels': ['Prakondisi']}, {'start': 221, 'end': 241, 'text': 'mengganggu aktivitas', 'labels': ['Outcome']}, {'start': 247, 'end': 277, 'text': 'perlu dievaluasi lebih lanjut.', 'labels': ['Tindakan']}, {'start': 366, 'end': 407, 'text': 'Attention deficit hyperactivity disorder(', 'labels': ['Penyakit']}, {'start': 407, 'end': 412, 'text': 'ADHD)', 'labels': ['Penyakit']}, {'start': 549, 'end': 553, 'text': 'ADHD', 'labels': ['Penyakit']}]
+start_pointer:
+0
+end_pointer:
+80
+kalimat :Sering lupa dan kesulitan untuk fokus umumnya sering dialami oleh setiap orang.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+80
+end_pointer:
+155
+kalimat :Selama keluhan tidak mengganggu aktivitas maka hal tersebut wajar terjadi.
+labelnya:
+set()
+
+
+start_pointer:
+155
+end_pointer:
+278
+kalimat :Namun, apabila keluhan yang terjadi telah berlangsung lama hingga mengganggu aktivitas maka perlu dievaluasi lebih lanjut.
+labelnya:
+{'Outcome', 'Tindakan', 'Prakondisi'}
+
+
+start_pointer:
+278
+end_pointer:
+534
+kalimat :Menilik dari apa yang anda sampaikan serta anda keluhkan saat ini, perlu dipahami bahwa Attention deficit hyperactivity disorder(ADHD) merupakan salah satu kelainan perkembangan terbanyak pada masa anak dan dapat berlangsung sampai masa remaja dan dewasa.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+534
+end_pointer:
+597
+kalimat :Umumnya gejala ADHD pada anak sudah muncul sejak usia 3 tahun.
+labelnya:
+{'Penyakit'}
+
+
+kalimat lengkap :
+Terimakasih telah bertanya di Alodokter.
+all label:
+[{'start': 0, 'end': 26, 'text': 'Terimakasih telah bertanya', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+41
+kalimat :Terimakasih telah bertanya di Alodokter.
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Alo Bsdtalia,
+all label:
+[{'start': 0, 'end': 3, 'text': 'Alo', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+14
+kalimat :Alo Bsdtalia,
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Selamat sore dok. Saya berusia 17 tahun. Saya entah mengapa susah fokus, sering melamun, sering lupa, dll. Saya sudah melakukan berbagai cara untuk mengubah habit saya tapi tidak ada yang berhasil sampai kedua ortu saya sudah capek. Saya sudah konsultasi pula ke psikolog dan sudah diberi latihan yang lain, awalnya selalu berjalan lancar tapi diakhir2 saya kembali ke awal. Saat saya memang sedang benar2 fokus dengan suatu hal yang saya lakukan yang lainnya terlupakan karena saya terpaku pada satu hal yang saya sedang kerjakan itu saja. Lalu entah mengapa di beberapa hari kemudian saya bisa tiba-tiba sad, lazy, seperti tidak ada energi. Di hari-hari seperti itu brain saya terasa off, tidak bisa berpikir jernih, sering melakukan kesalahan-kesalahan sepele. Saya juga sulit mencerna informasi yang kurang detail. Saya ingat dulu saya juga sering kurang fokus dan memang hiperaktif, tapi sekarang saya tidak hiperaktif lagi justru saya sekarang pendiam. Kira-kira saya kenapa ya, dok? Tolong jawabannya karena saya juga sudah bingung ada apa dengan saya..
+all label:
+[{'start': 0, 'end': 12, 'text': 'Selamat sore', 'labels': ['Pembuka']}, {'start': 31, 'end': 40, 'text': '17 tahun.', 'labels': ['Usia pasien']}, {'start': 60, 'end': 72, 'text': 'susah fokus,', 'labels': ['Gejala']}, {'start': 73, 'end': 88, 'text': 'sering melamun,', 'labels': ['Gejala']}, {'start': 89, 'end': 101, 'text': 'sering lupa,', 'labels': ['Gejala']}, {'start': 173, 'end': 196, 'text': 'tidak ada yang berhasil', 'labels': ['Outcome']}, {'start': 197, 'end': 232, 'text': 'sampai kedua ortu saya sudah capek.', 'labels': ['Outcome']}, {'start': 233, 'end': 254, 'text': 'Saya sudah konsultasi', 'labels': ['Tindakan']}, {'start': 282, 'end': 296, 'text': 'diberi latihan', 'labels': ['Tindakan']}, {'start': 339, 'end': 374, 'text': 'tapi diakhir2 saya kembali ke awal.', 'labels': ['Outcome']}, {'start': 375, 'end': 411, 'text': 'Saat saya memang sedang benar2 fokus', 'labels': ['Prakondisi']}, {'start': 447, 'end': 470, 'text': 'yang lainnya terlupakan', 'labels': ['Outcome']}, {'start': 586, 'end': 610, 'text': 'saya bisa tiba-tiba sad,', 'labels': ['Gejala']}, {'start': 611, 'end': 616, 'text': 'lazy,', 'labels': ['Gejala']}, {'start': 625, 'end': 642, 'text': 'tidak ada energi.', 'labels': ['Gejala']}, {'start': 668, 'end': 690, 'text': 'brain saya terasa off,', 'labels': ['Gejala']}, {'start': 691, 'end': 718, 'text': 'tidak bisa berpikir jernih,', 'labels': ['Gejala']}, {'start': 726, 'end': 763, 'text': 'melakukan kesalahan-kesalahan sepele.', 'labels': ['Gejala']}, {'start': 774, 'end': 798, 'text': 'sulit mencerna informasi', 'labels': ['Gejala']}, {'start': 845, 'end': 864, 'text': 'sering kurang fokus', 'labels': ['Gejala']}, {'start': 876, 'end': 887, 'text': 'hiperaktif,', 'labels': ['Gejala']}, {'start': 950, 'end': 958, 'text': 'pendiam.', 'labels': ['Gejala']}, {'start': 959, 'end': 989, 'text': 'Kira-kira saya kenapa ya, dok?', 'labels': ['Pertanyaan']}]
+start_pointer:
+0
+end_pointer:
+18
+kalimat :Selamat sore dok.
+labelnya:
+{'Pembuka'}
+
+
+start_pointer:
+18
+end_pointer:
+41
+kalimat :Saya berusia 17 tahun.
+labelnya:
+{'Usia pasien'}
+
+
+start_pointer:
+41
+end_pointer:
+107
+kalimat :Saya entah mengapa susah fokus, sering melamun, sering lupa, dll.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+107
+end_pointer:
+233
+kalimat :Saya sudah melakukan berbagai cara untuk mengubah habit saya tapi tidak ada yang berhasil sampai kedua ortu saya sudah capek.
+labelnya:
+{'Outcome'}
+
+
+start_pointer:
+233
+end_pointer:
+375
+kalimat :Saya sudah konsultasi pula ke psikolog dan sudah diberi latihan yang lain, awalnya selalu berjalan lancar tapi diakhir2 saya kembali ke awal.
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+start_pointer:
+375
+end_pointer:
+541
+kalimat :Saat saya memang sedang benar2 fokus dengan suatu hal yang saya lakukan yang lainnya terlupakan karena saya terpaku pada satu hal yang saya sedang kerjakan itu saja.
+labelnya:
+{'Outcome', 'Prakondisi'}
+
+
+start_pointer:
+541
+end_pointer:
+643
+kalimat :Lalu entah mengapa di beberapa hari kemudian saya bisa tiba-tiba sad, lazy, seperti tidak ada energi.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+643
+end_pointer:
+764
+kalimat :Di hari-hari seperti itu brain saya terasa off, tidak bisa berpikir jernih, sering melakukan kesalahan-kesalahan sepele.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+764
+end_pointer:
+819
+kalimat :Saya juga sulit mencerna informasi yang kurang detail.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+819
+end_pointer:
+959
+kalimat :Saya ingat dulu saya juga sering kurang fokus dan memang hiperaktif, tapi sekarang saya tidak hiperaktif lagi justru saya sekarang pendiam.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+959
+end_pointer:
+990
+kalimat :Kira-kira saya kenapa ya, dok?
+labelnya:
+{'Pertanyaan'}
+
+
+start_pointer:
+990
+end_pointer:
+1061
+kalimat :Tolong jawabannya karena saya juga sudah bingung ada apa dengan saya..
+labelnya:
+set()
+
+
+kalimat lengkap :
+Demikian informasi yang dapat disampaikan, semoga bermanfaat. Terima kasih.
+all label:
+[{'start': 0, 'end': 8, 'text': 'Demikian', 'labels': ['Penutup']}, {'start': 43, 'end': 61, 'text': 'semoga bermanfaat.', 'labels': ['Penutup']}, {'start': 62, 'end': 75, 'text': 'Terima kasih.', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+62
+kalimat :Demikian informasi yang dapat disampaikan, semoga bermanfaat.
+labelnya:
+{'Penutup'}
+
+
+start_pointer:
+62
+end_pointer:
+76
+kalimat :Terima kasih.
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Kemungkinan gejala yang anda sampaikan dapat menjadi tanda atau gejala autisme pada anak anda. Namun hal ini belum dapat dipastikan karena gejalanya dapat menyerupai gangguan atau kondisi lain seperti ADHD, gangguan cemas, sindrom Asperger, dan reaksi trauma akibat kekerasan. Maka dari itu untuk memastikannya, sebaiknya anda berkonsultasi lebih lanjut dengan dokter anak untuk dilakukan pemeriksaan tumbuh kembang pada anak anda, sehingga diagnosis dan penanganan dapat dilakukan dengan tepat.
+all label:
+[{'start': 71, 'end': 78, 'text': 'autisme', 'labels': ['Penyakit']}, {'start': 201, 'end': 206, 'text': 'ADHD,', 'labels': ['Penyakit']}, {'start': 207, 'end': 222, 'text': 'gangguan cemas,', 'labels': ['Penyakit']}, {'start': 223, 'end': 240, 'text': 'sindrom Asperger,', 'labels': ['Penyakit']}, {'start': 252, 'end': 276, 'text': 'trauma akibat kekerasan.', 'labels': ['Penyakit']}, {'start': 327, 'end': 367, 'text': 'berkonsultasi lebih lanjut dengan dokter', 'labels': ['Tindakan']}, {'start': 379, 'end': 415, 'text': 'dilakukan pemeriksaan tumbuh kembang', 'labels': ['Tindakan']}, {'start': 432, 'end': 471, 'text': 'sehingga diagnosis dan penanganan dapat', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+95
+kalimat :Kemungkinan gejala yang anda sampaikan dapat menjadi tanda atau gejala autisme pada anak anda.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+95
+end_pointer:
+277
+kalimat :Namun hal ini belum dapat dipastikan karena gejalanya dapat menyerupai gangguan atau kondisi lain seperti ADHD, gangguan cemas, sindrom Asperger, dan reaksi trauma akibat kekerasan.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+277
+end_pointer:
+496
+kalimat :Maka dari itu untuk memastikannya, sebaiknya anda berkonsultasi lebih lanjut dengan dokter anak untuk dilakukan pemeriksaan tumbuh kembang pada anak anda, sehingga diagnosis dan penanganan dapat dilakukan dengan tepat.
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+Autisme atauAutism Spectrum Disorder(ASD) merupakan gangguan perkembangan yang dapat menyebabkan kemampuan komunikasi dan sosialisasi anak terganggu. Gejala autisme dapat mulai terlihat pada anak usia 2-4 tahun. Gejalanya dapat beragam dapat berupa kesulitan komunikasi, sulit memulai percakapan dan memahami maksud atau petunjuk dari orang lain, mengucapkan satu kata secara berulang, sering tantrum, sulit bersosialisasi atau tidak mudah berteman, marah/menangis/tertawa tanpa alasan jelas, hanya menyukai dan mengonsumsi makanan tertentu, melakukan gerakan berulang seperti mengayun atau memutar badan, hanya menyukai objek atau topik tertentu, melakukan aktivitas yang membahayakan dirinya seperti menggigit kencang atau membenturkan kepala ke dinding, memiliki bahasa atau gerakan tubuh yang cenderung kaku, serta sulit tidur.
+all label:
+[{'start': 0, 'end': 7, 'text': 'Autisme', 'labels': ['Penyakit']}, {'start': 8, 'end': 37, 'text': 'atauAutism Spectrum Disorder(', 'labels': ['Penyakit']}, {'start': 37, 'end': 41, 'text': 'ASD)', 'labels': ['Penyakit']}, {'start': 85, 'end': 149, 'text': 'menyebabkan kemampuan komunikasi dan sosialisasi anak terganggu.', 'labels': ['Outcome']}, {'start': 249, 'end': 270, 'text': 'kesulitan komunikasi,', 'labels': ['Gejala']}, {'start': 271, 'end': 295, 'text': 'sulit memulai percakapan', 'labels': ['Gejala']}, {'start': 300, 'end': 329, 'text': 'memahami maksud atau petunjuk', 'labels': ['Gejala']}, {'start': 347, 'end': 385, 'text': 'mengucapkan satu kata secara berulang,', 'labels': ['Gejala']}, {'start': 386, 'end': 401, 'text': 'sering tantrum,', 'labels': ['Gejala']}, {'start': 402, 'end': 422, 'text': 'sulit bersosialisasi', 'labels': ['Gejala']}, {'start': 428, 'end': 449, 'text': 'tidak mudah berteman,', 'labels': ['Gejala']}, {'start': 450, 'end': 492, 'text': 'marah/menangis/tertawa tanpa alasan jelas,', 'labels': ['Gejala']}, {'start': 493, 'end': 541, 'text': 'hanya menyukai dan mengonsumsi makanan tertentu,', 'labels': ['Gejala']}, {'start': 542, 'end': 568, 'text': 'melakukan gerakan berulang', 'labels': ['Gejala']}, {'start': 606, 'end': 647, 'text': 'hanya menyukai objek atau topik tertentu,', 'labels': ['Gejala']}, {'start': 648, 'end': 685, 'text': 'melakukan aktivitas yang membahayakan', 'labels': ['Gejala']}, {'start': 725, 'end': 756, 'text': 'membenturkan kepala ke dinding,', 'labels': ['Gejala']}, {'start': 702, 'end': 719, 'text': 'menggigit kencang', 'labels': ['Gejala']}, {'start': 757, 'end': 812, 'text': 'memiliki bahasa atau gerakan tubuh yang cenderung kaku,', 'labels': ['Gejala']}, {'start': 819, 'end': 831, 'text': 'sulit tidur.', 'labels': ['Gejala']}]
+start_pointer:
+0
+end_pointer:
+150
+kalimat :Autisme atauAutism Spectrum Disorder(ASD) merupakan gangguan perkembangan yang dapat menyebabkan kemampuan komunikasi dan sosialisasi anak terganggu.
+labelnya:
+{'Outcome', 'Penyakit'}
+
+
+start_pointer:
+150
+end_pointer:
+212
+kalimat :Gejala autisme dapat mulai terlihat pada anak usia 2-4 tahun.
+labelnya:
+set()
+
+
+start_pointer:
+212
+end_pointer:
+832
+kalimat :Gejalanya dapat beragam dapat berupa kesulitan komunikasi, sulit memulai percakapan dan memahami maksud atau petunjuk dari orang lain, mengucapkan satu kata secara berulang, sering tantrum, sulit bersosialisasi atau tidak mudah berteman, marah/menangis/tertawa tanpa alasan jelas, hanya menyukai dan mengonsumsi makanan tertentu, melakukan gerakan berulang seperti mengayun atau memutar badan, hanya menyukai objek atau topik tertentu, melakukan aktivitas yang membahayakan dirinya seperti menggigit kencang atau membenturkan kepala ke dinding, memiliki bahasa atau gerakan tubuh yang cenderung kaku, serta sulit tidur.
+labelnya:
+{'Gejala'}
+
+
+kalimat lengkap :
+Terima kasih atas pertanyaannya untuk Alodokter,
+all label:
+[{'start': 0, 'end': 31, 'text': 'Terima kasih atas pertanyaannya', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+49
+kalimat :Terima kasih atas pertanyaannya untuk Alodokter,
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Alo Haryati,
+all label:
+[{'start': 0, 'end': 3, 'text': 'Alo', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+13
+kalimat :Alo Haryati,
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+dok anak saya sekarang umur 5 tahun tapi sedari umur 3 tahun sekali ia marah dia menyakiti dirinya sendiri memukul anggota tubuhnya seperti kepala dan dadanya.. Saat masih bayi ia sulit tidur sampai dengan umur 3 tahun lebih ia tidur jam 3an pagi.Sekarang umur 5 tahun dia belum bisa menulis garis miring tapi garis lingkaran iya bisa.. Kira-kira apakah itu bisa jadi gejala anak sy autis.
+all label:
+[{'start': 4, 'end': 8, 'text': 'anak', 'labels': ['Pasien']}, {'start': 41, 'end': 60, 'text': 'sedari umur 3 tahun', 'labels': ['Periode']}, {'start': 81, 'end': 106, 'text': 'menyakiti dirinya sendiri', 'labels': ['Gejala']}, {'start': 107, 'end': 131, 'text': 'memukul anggota tubuhnya', 'labels': ['Gejala']}, {'start': 161, 'end': 176, 'text': 'Saat masih bayi', 'labels': ['Periode']}, {'start': 180, 'end': 191, 'text': 'sulit tidur', 'labels': ['Gejala']}, {'start': 192, 'end': 218, 'text': 'sampai dengan umur 3 tahun', 'labels': ['Periode']}, {'start': 256, 'end': 268, 'text': 'umur 5 tahun', 'labels': ['Usia pasien']}, {'start': 23, 'end': 35, 'text': 'umur 5 tahun', 'labels': ['Usia pasien']}, {'start': 273, 'end': 304, 'text': 'belum bisa menulis garis miring', 'labels': ['Outcome']}, {'start': 347, 'end': 389, 'text': 'apakah itu bisa jadi gejala anak sy autis.', 'labels': ['Pertanyaan']}, {'start': 383, 'end': 389, 'text': 'autis.', 'labels': ['Penyakit']}]
+start_pointer:
+0
+end_pointer:
+390
+kalimat :dok anak saya sekarang umur 5 tahun tapi sedari umur 3 tahun sekali ia marah dia menyakiti dirinya sendiri memukul anggota tubuhnya seperti kepala dan dadanya.. Saat masih bayi ia sulit tidur sampai dengan umur 3 tahun lebih ia tidur jam 3an pagi.Sekarang umur 5 tahun dia belum bisa menulis garis miring tapi garis lingkaran iya bisa.. Kira-kira apakah itu bisa jadi gejala anak sy autis.
+labelnya:
+{'Pasien', 'Penyakit', 'Outcome', 'Periode', 'Pertanyaan', 'Gejala', 'Usia pasien'}
+
+
+kalimat lengkap :
+perlu dipahami jika perlu diketahui tingkat keparahannya dahulu, Jika memang sedang dan berat tentu perlu dilakukan pada sekolah khusus semoga membantu
+all label:
+[{'start': 77, 'end': 83, 'text': 'sedang', 'labels': ['Predikat']}, {'start': 88, 'end': 93, 'text': 'berat', 'labels': ['Predikat']}, {'start': 65, 'end': 93, 'text': 'Jika memang sedang dan berat', 'labels': ['Prakondisi']}, {'start': 106, 'end': 135, 'text': 'dilakukan pada sekolah khusus', 'labels': ['Tindakan']}, {'start': 136, 'end': 151, 'text': 'semoga membantu', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+152
+kalimat :perlu dipahami jika perlu diketahui tingkat keparahannya dahulu, Jika memang sedang dan berat tentu perlu dilakukan pada sekolah khusus semoga membantu
+labelnya:
+{'Tindakan', 'Predikat', 'Penutup', 'Prakondisi'}
+
+
+kalimat lengkap :
+    melakukan terapi
+all label:
+[{'start': 4, 'end': 20, 'text': 'melakukan terapi', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+21
+kalimat :    melakukan terapi
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    memberikan contoh dalam menjalankan kegiatan sehari haari
+all label:
+[{'start': 4, 'end': 21, 'text': 'memberikan contoh', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+62
+kalimat :    memberikan contoh dalam menjalankan kegiatan sehari haari
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    membaut jadwal kegiatan sehari hari dan ditepati
+all label:
+[{'start': 4, 'end': 39, 'text': 'membaut jadwal kegiatan sehari hari', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+53
+kalimat :    membaut jadwal kegiatan sehari hari dan ditepati
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    banyak menghabiskan waktu dengan anak
+all label:
+[{'start': 4, 'end': 41, 'text': 'banyak menghabiskan waktu dengan anak', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+42
+kalimat :    banyak menghabiskan waktu dengan anak
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+Pada penderita adhd perlu dilakukan kesabaran dan pendampingan yang lebih agar dapat mengoptimalkan perkembangan anak. Pada anak dengan ADHD cara perlu dilakukan hal berikut ini seperti:
+all label:
+[{'start': 15, 'end': 19, 'text': 'adhd', 'labels': ['Penyakit']}, {'start': 26, 'end': 45, 'text': 'dilakukan kesabaran', 'labels': ['Tindakan']}, {'start': 50, 'end': 62, 'text': 'pendampingan', 'labels': ['Tindakan']}, {'start': 74, 'end': 118, 'text': 'agar dapat mengoptimalkan perkembangan anak.', 'labels': ['Outcome']}, {'start': 136, 'end': 140, 'text': 'ADHD', 'labels': ['Penyakit']}]
+start_pointer:
+0
+end_pointer:
+119
+kalimat :Pada penderita adhd perlu dilakukan kesabaran dan pendampingan yang lebih agar dapat mengoptimalkan perkembangan anak.
+labelnya:
+{'Outcome', 'Tindakan', 'Penyakit'}
+
+
+start_pointer:
+119
+end_pointer:
+187
+kalimat :Pada anak dengan ADHD cara perlu dilakukan hal berikut ini seperti:
+labelnya:
+{'Penyakit'}
+
+
+kalimat lengkap :
+Autisme merupakan kelainan perkembangan saraf yang dapat mengakibatkan gangguan dalam berperilaku dan berinteraksi dengan sesama. Autisme ini dapat disebabkan oleh berbagai macam hal. Sedangkan ADHD atauAttention deficit Hyperactivity Disorder gangguan pada perilaku yang menyebabkan hiperaktif kurang perhatian dan tindakan impulsif. Kedua gangguan ini berbeda perlu dipahami. Pada anak dengan ADHD banyak tidak suka melakukan kegiatan setiap hari dalam waktu lama, berbicara tanpa henti, dan tidak fokus.
+all label:
+[{'start': 0, 'end': 7, 'text': 'Autisme', 'labels': ['Penyakit']}, {'start': 57, 'end': 114, 'text': 'mengakibatkan gangguan dalam berperilaku dan berinteraksi', 'labels': ['Outcome']}, {'start': 194, 'end': 198, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 199, 'end': 243, 'text': 'atauAttention deficit Hyperactivity Disorder', 'labels': ['Penyakit']}, {'start': 284, 'end': 294, 'text': 'hiperaktif', 'labels': ['Gejala']}, {'start': 295, 'end': 311, 'text': 'kurang perhatian', 'labels': ['Gejala']}, {'start': 316, 'end': 334, 'text': 'tindakan impulsif.', 'labels': ['Gejala']}, {'start': 395, 'end': 399, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 407, 'end': 448, 'text': 'tidak suka melakukan kegiatan setiap hari', 'labels': ['Gejala']}, {'start': 467, 'end': 489, 'text': 'berbicara tanpa henti,', 'labels': ['Gejala']}, {'start': 494, 'end': 506, 'text': 'tidak fokus.', 'labels': ['Gejala']}]
+start_pointer:
+0
+end_pointer:
+130
+kalimat :Autisme merupakan kelainan perkembangan saraf yang dapat mengakibatkan gangguan dalam berperilaku dan berinteraksi dengan sesama.
+labelnya:
+{'Outcome', 'Penyakit'}
+
+
+start_pointer:
+130
+end_pointer:
+184
+kalimat :Autisme ini dapat disebabkan oleh berbagai macam hal.
+labelnya:
+set()
+
+
+start_pointer:
+184
+end_pointer:
+335
+kalimat :Sedangkan ADHD atauAttention deficit Hyperactivity Disorder gangguan pada perilaku yang menyebabkan hiperaktif kurang perhatian dan tindakan impulsif.
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+start_pointer:
+335
+end_pointer:
+378
+kalimat :Kedua gangguan ini berbeda perlu dipahami.
+labelnya:
+set()
+
+
+start_pointer:
+378
+end_pointer:
+507
+kalimat :Pada anak dengan ADHD banyak tidak suka melakukan kegiatan setiap hari dalam waktu lama, berbicara tanpa henti, dan tidak fokus.
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+kalimat lengkap :
+alo, terima kasih sudah bertanya kepada alodokter. saya dr. Ainul
+all label:
+[{'start': 0, 'end': 4, 'text': 'alo,', 'labels': ['Pembuka']}, {'start': 5, 'end': 32, 'text': 'terima kasih sudah bertanya', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+51
+kalimat :alo, terima kasih sudah bertanya kepada alodokter.
+labelnya:
+{'Pembuka'}
+
+
+start_pointer:
+51
+end_pointer:
+66
+kalimat :saya dr. Ainul
+labelnya:
+set()
+
+
+kalimat lengkap :
+Apakah ADHD sama dengan cacat mental atau autis ya dok ? Apakah pengidap ADHD memerlukan sekolah khusus?
+all label:
+[{'start': 0, 'end': 50, 'text': 'Apakah ADHD sama dengan cacat mental atau autis ya', 'labels': ['Pertanyaan']}, {'start': 7, 'end': 11, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 24, 'end': 36, 'text': 'cacat mental', 'labels': ['Penyakit']}, {'start': 42, 'end': 47, 'text': 'autis', 'labels': ['Penyakit']}, {'start': 73, 'end': 77, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 57, 'end': 104, 'text': 'Apakah pengidap ADHD memerlukan sekolah khusus?', 'labels': ['Pertanyaan']}]
+start_pointer:
+0
+end_pointer:
+57
+kalimat :Apakah ADHD sama dengan cacat mental atau autis ya dok ?
+labelnya:
+{'Pertanyaan', 'Penyakit'}
+
+
+start_pointer:
+57
+end_pointer:
+105
+kalimat :Apakah pengidap ADHD memerlukan sekolah khusus?
+labelnya:
+{'Penyakit', 'Pertanyaan'}
+
+
+kalimat lengkap :
+Semoga informasi ini dapat membantu. Salam.
+all label:
+[{'start': 0, 'end': 36, 'text': 'Semoga informasi ini dapat membantu.', 'labels': ['Penutup']}, {'start': 37, 'end': 43, 'text': 'Salam.', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+37
+kalimat :Semoga informasi ini dapat membantu.
+labelnya:
+{'Penutup'}
+
+
+start_pointer:
+37
+end_pointer:
+44
+kalimat :Salam.
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Anda sebaiknya berkonsultasi dengan psikolog atau psikiater untuk mendapatkan diagnosis pasti. Kecenderungan untuk terlibat dalam konflik atau perasaan iritabilitas yang tinggi mungkin juga disebabkan oleh masalah lain seperti gangguan kecemasan. Semakin cepat anda berkonsultasi maka semakin dini masalah anda dapat diatasi agar tidak berdampak terhadap sosialisasi maupun pekerjaan anda.
+all label:
+[{'start': 15, 'end': 44, 'text': 'berkonsultasi dengan psikolog', 'labels': ['Tindakan']}, {'start': 60, 'end': 94, 'text': 'untuk mendapatkan diagnosis pasti.', 'labels': ['Outcome']}, {'start': 95, 'end': 137, 'text': 'Kecenderungan untuk terlibat dalam konflik', 'labels': ['Gejala']}, {'start': 143, 'end': 176, 'text': 'perasaan iritabilitas yang tinggi', 'labels': ['Gejala']}, {'start': 227, 'end': 246, 'text': 'gangguan kecemasan.', 'labels': ['Penyakit']}, {'start': 247, 'end': 279, 'text': 'Semakin cepat anda berkonsultasi', 'labels': ['Prakondisi']}, {'start': 285, 'end': 324, 'text': 'semakin dini masalah anda dapat diatasi', 'labels': ['Outcome']}, {'start': 325, 'end': 366, 'text': 'agar tidak berdampak terhadap sosialisasi', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+95
+kalimat :Anda sebaiknya berkonsultasi dengan psikolog atau psikiater untuk mendapatkan diagnosis pasti.
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+start_pointer:
+95
+end_pointer:
+247
+kalimat :Kecenderungan untuk terlibat dalam konflik atau perasaan iritabilitas yang tinggi mungkin juga disebabkan oleh masalah lain seperti gangguan kecemasan.
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+start_pointer:
+247
+end_pointer:
+390
+kalimat :Semakin cepat anda berkonsultasi maka semakin dini masalah anda dapat diatasi agar tidak berdampak terhadap sosialisasi maupun pekerjaan anda.
+labelnya:
+{'Outcome', 'Prakondisi'}
+
+
+kalimat lengkap :
+ADHD tidak dapat berkembang mulai dewasa. ADHD selalu terjadi sejak kecil, namun kadangkala tidak terdiagnosis hingga dewasa. Saat kecil seorang anak mungkin menunjukkan gejala ADHD namun gejalanya tersamar karena anak masih berada dalam kontrol perilaku oleh orang tua dan masih berada dalam struktur sekolah yang cenderung teratur. Saat beranjak dewasa dimana perilaku sudah tidak dikontrol orang tua dan seseorang berada pada lingkungan kampus atau kantor yang lebih bebas strukturnya dibanding sekolah, maka gejala dapat mulai tampak lebih jelas.
+all label:
+[{'start': 0, 'end': 4, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 42, 'end': 46, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 177, 'end': 181, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 62, 'end': 74, 'text': 'sejak kecil,', 'labels': ['Periode']}, {'start': 92, 'end': 125, 'text': 'tidak terdiagnosis hingga dewasa.', 'labels': ['Outcome']}, {'start': 280, 'end': 333, 'text': 'berada dalam struktur sekolah yang cenderung teratur.', 'labels': ['Tindakan']}, {'start': 334, 'end': 354, 'text': 'Saat beranjak dewasa', 'labels': ['Kapan']}, {'start': 417, 'end': 458, 'text': 'berada pada lingkungan kampus atau kantor', 'labels': ['Prakondisi']}, {'start': 512, 'end': 550, 'text': 'gejala dapat mulai tampak lebih jelas.', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+42
+kalimat :ADHD tidak dapat berkembang mulai dewasa.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+42
+end_pointer:
+126
+kalimat :ADHD selalu terjadi sejak kecil, namun kadangkala tidak terdiagnosis hingga dewasa.
+labelnya:
+{'Outcome', 'Periode', 'Penyakit'}
+
+
+start_pointer:
+126
+end_pointer:
+334
+kalimat :Saat kecil seorang anak mungkin menunjukkan gejala ADHD namun gejalanya tersamar karena anak masih berada dalam kontrol perilaku oleh orang tua dan masih berada dalam struktur sekolah yang cenderung teratur.
+labelnya:
+{'Tindakan', 'Penyakit'}
+
+
+start_pointer:
+334
+end_pointer:
+551
+kalimat :Saat beranjak dewasa dimana perilaku sudah tidak dikontrol orang tua dan seseorang berada pada lingkungan kampus atau kantor yang lebih bebas strukturnya dibanding sekolah, maka gejala dapat mulai tampak lebih jelas.
+labelnya:
+{'Outcome', 'Kapan', 'Prakondisi'}
+
+
+kalimat lengkap :
+Seperti yang mungkin sudah anda ketahui, ADHD adalah sekumpulan gejala dan tanda gangguan psikologis yang utamanya menyangkut gangguan fokus dan konsentrasi. Orang dengan ADHD memiliki kemampuan mempertahankan fokus yang singkat sehingga tidak jarang mengalami perubahan mood seperti bosan atau mudah tersinggung. Gejala lain yang juga menonjol adalah impulsif, dimana seseorang melakukan sesuatu tanpa dipikirkan matang-matang, tidak terpikir konsekuensi. Orang dengan ADHD seringkali terlihat sulit duduk atau berdiri diam, sering menyela pembicaraan orang lain, dan melakukan kegiatan fisik yang tidak bertujuan. Kondisi ADHD sulit dibedakan dengan spektrum autisme karena gejala dan tandanya mirip.
+all label:
+[{'start': 41, 'end': 45, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 126, 'end': 157, 'text': 'gangguan fokus dan konsentrasi.', 'labels': ['Penyakit']}, {'start': 171, 'end': 175, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 470, 'end': 474, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 624, 'end': 628, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 195, 'end': 228, 'text': 'mempertahankan fokus yang singkat', 'labels': ['Gejala']}, {'start': 251, 'end': 275, 'text': 'mengalami perubahan mood', 'labels': ['Gejala']}, {'start': 295, 'end': 313, 'text': 'mudah tersinggung.', 'labels': ['Gejala']}, {'start': 352, 'end': 361, 'text': 'impulsif,', 'labels': ['Gejala']}, {'start': 379, 'end': 428, 'text': 'melakukan sesuatu tanpa dipikirkan matang-matang,', 'labels': ['Gejala']}, {'start': 429, 'end': 456, 'text': 'tidak terpikir konsekuensi.', 'labels': ['Gejala']}, {'start': 495, 'end': 525, 'text': 'sulit duduk atau berdiri diam,', 'labels': ['Gejala']}, {'start': 526, 'end': 564, 'text': 'sering menyela pembicaraan orang lain,', 'labels': ['Gejala']}, {'start': 569, 'end': 615, 'text': 'melakukan kegiatan fisik yang tidak bertujuan.', 'labels': ['Gejala']}, {'start': 661, 'end': 668, 'text': 'autisme', 'labels': ['Penyakit']}]
+start_pointer:
+0
+end_pointer:
+158
+kalimat :Seperti yang mungkin sudah anda ketahui, ADHD adalah sekumpulan gejala dan tanda gangguan psikologis yang utamanya menyangkut gangguan fokus dan konsentrasi.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+158
+end_pointer:
+314
+kalimat :Orang dengan ADHD memiliki kemampuan mempertahankan fokus yang singkat sehingga tidak jarang mengalami perubahan mood seperti bosan atau mudah tersinggung.
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+start_pointer:
+314
+end_pointer:
+457
+kalimat :Gejala lain yang juga menonjol adalah impulsif, dimana seseorang melakukan sesuatu tanpa dipikirkan matang-matang, tidak terpikir konsekuensi.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+457
+end_pointer:
+616
+kalimat :Orang dengan ADHD seringkali terlihat sulit duduk atau berdiri diam, sering menyela pembicaraan orang lain, dan melakukan kegiatan fisik yang tidak bertujuan.
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+start_pointer:
+616
+end_pointer:
+703
+kalimat :Kondisi ADHD sulit dibedakan dengan spektrum autisme karena gejala dan tandanya mirip.
+labelnya:
+{'Penyakit'}
+
+
+kalimat lengkap :
+Alo Wahyu.
+all label:
+[{'start': 0, 'end': 3, 'text': 'Alo', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+11
+kalimat :Alo Wahyu.
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Alodok, saya mau bertanya terkait apakah orang yg sudah dewasa bisa mengidap ADHD, atau hanya pada anak" saja penyakit ini bisa diderita. Mengingat saya merasakan gejala seperi apa yang pengidap adhd rasakan di usia saya yg sudah 27 tahun. Antara lain, saya tak jarang mengalami konflik dengan pengguna jalan lain saat saya berkendara, memang saya terbiasa berkendara dengan kecepatan diatas rata". Terkadang juga saya sulit untuk berada dalam keadaan santai, ketika saya berusaha santai tanpa sadar saya memikirkan hal hal lain dan berdiri dari tempat duduk untuk sekedar berjalan dari satu titik ke titik lain secara terus menerus (bolak balik). Sekian pertanyaan saya, terima kasih sebelumnya.
+all label:
+[{'start': 0, 'end': 7, 'text': 'Alodok,', 'labels': ['Pembuka']}, {'start': 34, 'end': 76, 'text': 'apakah orang yg sudah dewasa bisa mengidap', 'labels': ['Pertanyaan']}, {'start': 77, 'end': 82, 'text': 'ADHD,', 'labels': ['Penyakit']}, {'start': 230, 'end': 239, 'text': '27 tahun.', 'labels': ['Usia pasien']}, {'start': 269, 'end': 313, 'text': 'mengalami konflik dengan pengguna jalan lain', 'labels': ['Gejala']}, {'start': 419, 'end': 459, 'text': 'sulit untuk berada dalam keadaan santai,', 'labels': ['Gejala']}, {'start': 500, 'end': 528, 'text': 'saya memikirkan hal hal lain', 'labels': ['Gejala']}, {'start': 533, 'end': 581, 'text': 'berdiri dari tempat duduk untuk sekedar berjalan', 'labels': ['Gejala']}, {'start': 573, 'end': 632, 'text': 'berjalan dari satu titik ke titik lain secara terus menerus', 'labels': ['Gejala']}, {'start': 672, 'end': 696, 'text': 'terima kasih sebelumnya.', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+138
+kalimat :Alodok, saya mau bertanya terkait apakah orang yg sudah dewasa bisa mengidap ADHD, atau hanya pada anak" saja penyakit ini bisa diderita.
+labelnya:
+{'Pembuka', 'Penyakit', 'Pertanyaan'}
+
+
+start_pointer:
+138
+end_pointer:
+240
+kalimat :Mengingat saya merasakan gejala seperi apa yang pengidap adhd rasakan di usia saya yg sudah 27 tahun.
+labelnya:
+{'Usia pasien'}
+
+
+start_pointer:
+240
+end_pointer:
+399
+kalimat :Antara lain, saya tak jarang mengalami konflik dengan pengguna jalan lain saat saya berkendara, memang saya terbiasa berkendara dengan kecepatan diatas rata".
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+399
+end_pointer:
+648
+kalimat :Terkadang juga saya sulit untuk berada dalam keadaan santai, ketika saya berusaha santai tanpa sadar saya memikirkan hal hal lain dan berdiri dari tempat duduk untuk sekedar berjalan dari satu titik ke titik lain secara terus menerus (bolak balik).
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+648
+end_pointer:
+697
+kalimat :Sekian pertanyaan saya, terima kasih sebelumnya.
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Saya dr. Ainul
+kalimat lengkap :
+Sementara itu, beberapa anjuran yang dapat Anda lakukan :
+kalimat lengkap :
+Semoga membantu ya..
+all label:
+[{'start': 0, 'end': 20, 'text': 'Semoga membantu ya..', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+21
+kalimat :Semoga membantu ya..
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Saran kami, Anda ajaklah wali dari anak tersebut untuk berdiskusi. Jika perlu, minta juga pendampingan dari ahlinya, yakni dokter, psikiater, atau psikolog sehingga bisa diberikan arahan dalam memilih jenis sekolah terbaik.
+all label:
+[{'start': 17, 'end': 66, 'text': 'ajaklah wali dari anak tersebut untuk berdiskusi.', 'labels': ['Tindakan']}, {'start': 79, 'end': 116, 'text': 'minta juga pendampingan dari ahlinya,', 'labels': ['Tindakan']}, {'start': 156, 'end': 186, 'text': 'sehingga bisa diberikan arahan', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+67
+kalimat :Saran kami, Anda ajaklah wali dari anak tersebut untuk berdiskusi.
+labelnya:
+{'Tindakan'}
+
+
+start_pointer:
+67
+end_pointer:
+224
+kalimat :Jika perlu, minta juga pendampingan dari ahlinya, yakni dokter, psikiater, atau psikolog sehingga bisa diberikan arahan dalam memilih jenis sekolah terbaik.
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+Terkait pertanyaan Anda, gejala pada anak dengan ADHD bisa bervariasi derajat keparahannya. Hal ini tergantung juga dari seberapa intensif penanganan yang diberikan. Memang, bukan tidak mungkin anak dengan ADHD bisa bersekolah di sekolah reguler dan sekolah inklusif berdampingan dengan anak sebayanya yang normal. Akan tetapi, jika gejala yang muncul cenderung berat, tentu memaksakan menyekolahkannya di sekolah reguler dan sekolah inklusif malah bisa merugikan sang anak sendiri. Sebab, tenaga pengajar di sekolah reguler belum tentu terlatih menghadapi anak dengan ADHD dan masalah belajar yang mungkin ditimbulkannya.
+all label:
+[{'start': 49, 'end': 53, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 206, 'end': 210, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 569, 'end': 573, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 121, 'end': 165, 'text': 'seberapa intensif penanganan yang diberikan.', 'labels': ['Penyebab']}, {'start': 180, 'end': 226, 'text': 'tidak mungkin anak dengan ADHD bisa bersekolah', 'labels': ['Outcome']}, {'start': 307, 'end': 314, 'text': 'normal.', 'labels': ['Predikat']}, {'start': 362, 'end': 368, 'text': 'berat,', 'labels': ['Predikat']}, {'start': 375, 'end': 402, 'text': 'memaksakan menyekolahkannya', 'labels': ['Tindakan']}, {'start': 449, 'end': 482, 'text': 'bisa merugikan sang anak sendiri.', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+92
+kalimat :Terkait pertanyaan Anda, gejala pada anak dengan ADHD bisa bervariasi derajat keparahannya.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+92
+end_pointer:
+166
+kalimat :Hal ini tergantung juga dari seberapa intensif penanganan yang diberikan.
+labelnya:
+{'Penyebab'}
+
+
+start_pointer:
+166
+end_pointer:
+315
+kalimat :Memang, bukan tidak mungkin anak dengan ADHD bisa bersekolah di sekolah reguler dan sekolah inklusif berdampingan dengan anak sebayanya yang normal.
+labelnya:
+{'Outcome', 'Predikat', 'Penyakit'}
+
+
+start_pointer:
+315
+end_pointer:
+483
+kalimat :Akan tetapi, jika gejala yang muncul cenderung berat, tentu memaksakan menyekolahkannya di sekolah reguler dan sekolah inklusif malah bisa merugikan sang anak sendiri.
+labelnya:
+{'Outcome', 'Tindakan', 'Predikat'}
+
+
+start_pointer:
+483
+end_pointer:
+623
+kalimat :Sebab, tenaga pengajar di sekolah reguler belum tentu terlatih menghadapi anak dengan ADHD dan masalah belajar yang mungkin ditimbulkannya.
+labelnya:
+{'Penyakit'}
+
+
+kalimat lengkap :
+ADHD (attention deficithyperactivity disorder) adalah suatu gangguan mental yang membuat penderitanya sulit memusatkan perhatian, cenderung berperilaku impulsif dan hiperaktif. Jika tidak mendapat penanganan yang tepat, ADHD bisa sangat mengganggu prestasi belajar seorang anak. Sebab itu, gangguan ini sepatutnya dideteksi dan ditangani sejak dini oleh ahlinya agar kualitas hidup penderitanya meningkat.
+all label:
+[{'start': 0, 'end': 4, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 6, 'end': 46, 'text': 'attention deficithyperactivity disorder)', 'labels': ['Penyakit']}, {'start': 102, 'end': 129, 'text': 'sulit memusatkan perhatian,', 'labels': ['Gejala']}, {'start': 130, 'end': 160, 'text': 'cenderung berperilaku impulsif', 'labels': ['Gejala']}, {'start': 165, 'end': 176, 'text': 'hiperaktif.', 'labels': ['Gejala']}, {'start': 220, 'end': 224, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 237, 'end': 278, 'text': 'mengganggu prestasi belajar seorang anak.', 'labels': ['Outcome']}, {'start': 314, 'end': 323, 'text': 'dideteksi', 'labels': ['Tindakan']}, {'start': 328, 'end': 361, 'text': 'ditangani sejak dini oleh ahlinya', 'labels': ['Tindakan']}, {'start': 362, 'end': 405, 'text': 'agar kualitas hidup penderitanya meningkat.', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+177
+kalimat :ADHD (attention deficithyperactivity disorder) adalah suatu gangguan mental yang membuat penderitanya sulit memusatkan perhatian, cenderung berperilaku impulsif dan hiperaktif.
+labelnya:
+{'Penyakit', 'Gejala'}
+
+
+start_pointer:
+177
+end_pointer:
+279
+kalimat :Jika tidak mendapat penanganan yang tepat, ADHD bisa sangat mengganggu prestasi belajar seorang anak.
+labelnya:
+{'Outcome', 'Penyakit'}
+
+
+start_pointer:
+279
+end_pointer:
+406
+kalimat :Sebab itu, gangguan ini sepatutnya dideteksi dan ditangani sejak dini oleh ahlinya agar kualitas hidup penderitanya meningkat.
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+Alo, terimakasih atas pertanyaannya.
+all label:
+[{'start': 0, 'end': 4, 'text': 'Alo,', 'labels': ['Pembuka']}, {'start': 5, 'end': 36, 'text': 'terimakasih atas pertanyaannya.', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+37
+kalimat :Alo, terimakasih atas pertanyaannya.
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Perlu diperjelas, apakah yang dimaksud adalah ADHD?
+all label:
+[{'start': 18, 'end': 51, 'text': 'apakah yang dimaksud adalah ADHD?', 'labels': ['Pertanyaan']}]
+start_pointer:
+0
+end_pointer:
+52
+kalimat :Perlu diperjelas, apakah yang dimaksud adalah ADHD?
+labelnya:
+{'Pertanyaan'}
+
+
+kalimat lengkap :
+Dokter, sy mau bertanya memgenai anak ADHDKebetulan di sekolah sy ada anak yang mengidap ADHD, sedangkan di sekolah sy sekolah reguler/sekolah normal, yg sy tanyakan apakah anak ADHD dapat bersekolah di sekolah reguler?Org tua na sy sarankn untuk sekolah di sekolah inklusi...org tua na tidak mau..
+all label:
+[{'start': 0, 'end': 7, 'text': 'Dokter,', 'labels': ['Pembuka']}, {'start': 38, 'end': 51, 'text': 'ADHDKebetulan', 'labels': ['Penyakit']}, {'start': 89, 'end': 94, 'text': 'ADHD,', 'labels': ['Penyakit']}, {'start': 178, 'end': 182, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 166, 'end': 219, 'text': 'apakah anak ADHD dapat bersekolah di sekolah reguler?', 'labels': ['Pertanyaan']}, {'start': 233, 'end': 276, 'text': 'sarankn untuk sekolah di sekolah inklusi...', 'labels': ['Tindakan']}, {'start': 276, 'end': 298, 'text': 'org tua na tidak mau..', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+299
+kalimat :Dokter, sy mau bertanya memgenai anak ADHDKebetulan di sekolah sy ada anak yang mengidap ADHD, sedangkan di sekolah sy sekolah reguler/sekolah normal, yg sy tanyakan apakah anak ADHD dapat bersekolah di sekolah reguler?Org tua na sy sarankn untuk sekolah di sekolah inklusi...org tua na tidak mau..
+labelnya:
+{'Penyakit', 'Outcome', 'Pembuka', 'Pertanyaan', 'Tindakan'}
+
+
+kalimat lengkap :
+Semoga membantu ya..
+all label:
+[{'start': 0, 'end': 20, 'text': 'Semoga membantu ya..', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+21
+kalimat :Semoga membantu ya..
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+    Dampingi ia menjalani gaya hidup sehat sejak dini
+all label:
+[{'start': 4, 'end': 42, 'text': 'Dampingi ia menjalani gaya hidup sehat', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+54
+kalimat :    Dampingi ia menjalani gaya hidup sehat sejak dini
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Bantu pilihkan lingkungan pergaulan yang baik untuknya
+all label:
+[{'start': 4, 'end': 39, 'text': 'Bantu pilihkan lingkungan pergaulan', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+59
+kalimat :    Bantu pilihkan lingkungan pergaulan yang baik untuknya
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Jauhkan ia dari alkohol, rokok, dan NAPZA
+all label:
+[{'start': 4, 'end': 45, 'text': 'Jauhkan ia dari alkohol, rokok, dan NAPZA', 'labels': ['Tindakan']}, {'start': 20, 'end': 28, 'text': 'alkohol,', 'labels': ['Objek']}, {'start': 29, 'end': 35, 'text': 'rokok,', 'labels': ['Objek']}, {'start': 40, 'end': 45, 'text': 'NAPZA', 'labels': ['Objek']}]
+start_pointer:
+0
+end_pointer:
+46
+kalimat :    Jauhkan ia dari alkohol, rokok, dan NAPZA
+labelnya:
+{'Objek', 'Tindakan'}
+
+
+kalimat lengkap :
+    Batasi ia dari penggunaan gadget berlebihan
+all label:
+[{'start': 4, 'end': 36, 'text': 'Batasi ia dari penggunaan gadget', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+48
+kalimat :    Batasi ia dari penggunaan gadget berlebihan
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Hindari membiarkan adik Anda beraktifitas berbahaya seorang diri
+all label:
+[{'start': 4, 'end': 45, 'text': 'Hindari membiarkan adik Anda beraktifitas', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+69
+kalimat :    Hindari membiarkan adik Anda beraktifitas berbahaya seorang diri
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Ajarkan adik Anda mengurus dirinya dengan baik, latih ia untuk mandiri dan tingkatkan empatinya pada orang serta benda lain di sekitarnya
+all label:
+[{'start': 4, 'end': 38, 'text': 'Ajarkan adik Anda mengurus dirinya', 'labels': ['Tindakan']}, {'start': 52, 'end': 74, 'text': 'latih ia untuk mandiri', 'labels': ['Tindakan']}, {'start': 79, 'end': 99, 'text': 'tingkatkan empatinya', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+142
+kalimat :    Ajarkan adik Anda mengurus dirinya dengan baik, latih ia untuk mandiri dan tingkatkan empatinya pada orang serta benda lain di sekitarnya
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Sering-sering ajak adik Anda berinteraksi, selami dan bantu ia mencari solusi saat ada masalah, perlakukan ia dengan lembut agar ia merasa nyaman
+all label:
+[{'start': 18, 'end': 46, 'text': 'ajak adik Anda berinteraksi,', 'labels': ['Tindakan']}, {'start': 58, 'end': 81, 'text': 'bantu ia mencari solusi', 'labels': ['Tindakan']}, {'start': 47, 'end': 53, 'text': 'selami', 'labels': ['Tindakan']}, {'start': 100, 'end': 127, 'text': 'perlakukan ia dengan lembut', 'labels': ['Tindakan']}, {'start': 128, 'end': 149, 'text': 'agar ia merasa nyaman', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+150
+kalimat :    Sering-sering ajak adik Anda berinteraksi, selami dan bantu ia mencari solusi saat ada masalah, perlakukan ia dengan lembut agar ia merasa nyaman
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+    Bersabar, berkoordinasi dengan anggota keluarga lain untuk bersama-sama memperbaiki kondisi adik Anda
+all label:
+[{'start': 4, 'end': 13, 'text': 'Bersabar,', 'labels': ['Tindakan']}, {'start': 14, 'end': 51, 'text': 'berkoordinasi dengan anggota keluarga', 'labels': ['Tindakan']}, {'start': 76, 'end': 105, 'text': 'memperbaiki kondisi adik Anda', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+106
+kalimat :    Bersabar, berkoordinasi dengan anggota keluarga lain untuk bersama-sama memperbaiki kondisi adik Anda
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+Sementara itu, yang bisa Anda lakukan sebagai kakak yakni:
+all label:
+[{'start': 25, 'end': 51, 'text': 'Anda lakukan sebagai kakak', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+59
+kalimat :Sementara itu, yang bisa Anda lakukan sebagai kakak yakni:
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+Jika memang Anda merasa kondisi adik Anda sangat tidak wajar, kami sarankan Anda mendampinginya periksa langsung ke dokter atau psikiater terdekat ya.. Lewat wawancara psikiatrik mendalam atau dibantu dengan pemeriksaan darah, CT scan, EEG, dan tes penunjang lainnya, seringnya dokter sudah bisa memutuskan tatalaksana yang tepat.
+all label:
+[{'start': 0, 'end': 36, 'text': 'Jika memang Anda merasa kondisi adik', 'labels': ['Prakondisi']}, {'start': 81, 'end': 122, 'text': 'mendampinginya periksa langsung ke dokter', 'labels': ['Tindakan']}, {'start': 158, 'end': 178, 'text': 'wawancara psikiatrik', 'labels': ['Tindakan']}, {'start': 208, 'end': 226, 'text': 'pemeriksaan darah,', 'labels': ['Tindakan']}, {'start': 227, 'end': 235, 'text': 'CT scan,', 'labels': ['Tindakan']}, {'start': 236, 'end': 240, 'text': 'EEG,', 'labels': ['Tindakan']}, {'start': 245, 'end': 267, 'text': 'tes penunjang lainnya,', 'labels': ['Tindakan']}, {'start': 291, 'end': 330, 'text': 'bisa memutuskan tatalaksana yang tepat.', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+331
+kalimat :Jika memang Anda merasa kondisi adik Anda sangat tidak wajar, kami sarankan Anda mendampinginya periksa langsung ke dokter atau psikiater terdekat ya.. Lewat wawancara psikiatrik mendalam atau dibantu dengan pemeriksaan darah, CT scan, EEG, dan tes penunjang lainnya, seringnya dokter sudah bisa memutuskan tatalaksana yang tepat.
+labelnya:
+{'Outcome', 'Tindakan', 'Prakondisi'}
+
+
+kalimat lengkap :
+Tidak bisa memilah ucapan yang baik dan tidak baik, sering bicara sendiri, kerap berbicara dan melakukan gerakan tubuh berulang-ulang, sulit konsentrasi, kemampuan berpikir logiknya kurang baik, tidak nyamuk saat diajak bicara, sulit bersosialisasi, dan terganggu kemampuan komunikasinya memang bisa saja masih merupakan variasi pola berpikir, bersikap, dan berperilaku yang wajar. Akan tetapi, jika hal ini terasa sangat mengganggu orang disekitarnya, bertahan dalam waktu lama, apalagi sampai membuat aktifitas dan fungsi dirinya menjadi sangat terbatas padahal usianya sudah bukan lagi kanak-kanak, tentu perlu ditelisik mendalam kemungkinan faktor lain yang mempersulitnya, misalnyaautism spectrum disorder,attention deficit hyperactivity disorder, keterbelakangan mental, gangguan kepribadian, gangguan skizoafektif, skizofrenia, cidera kepala, dan sebagainya.
+all label:
+[{'start': 0, 'end': 25, 'text': 'Tidak bisa memilah ucapan', 'labels': ['Gejala']}, {'start': 52, 'end': 74, 'text': 'sering bicara sendiri,', 'labels': ['Gejala']}, {'start': 75, 'end': 90, 'text': 'kerap berbicara', 'labels': ['Gejala']}, {'start': 95, 'end': 134, 'text': 'melakukan gerakan tubuh berulang-ulang,', 'labels': ['Gejala']}, {'start': 135, 'end': 153, 'text': 'sulit konsentrasi,', 'labels': ['Gejala']}, {'start': 154, 'end': 194, 'text': 'kemampuan berpikir logiknya kurang baik,', 'labels': ['Gejala']}, {'start': 195, 'end': 227, 'text': 'tidak nyamuk saat diajak bicara,', 'labels': ['Gejala']}, {'start': 228, 'end': 249, 'text': 'sulit bersosialisasi,', 'labels': ['Gejala']}, {'start': 254, 'end': 287, 'text': 'terganggu kemampuan komunikasinya', 'labels': ['Gejala']}, {'start': 375, 'end': 381, 'text': 'wajar.', 'labels': ['Predikat']}, {'start': 408, 'end': 432, 'text': 'terasa sangat mengganggu', 'labels': ['Outcome']}, {'start': 495, 'end': 555, 'text': 'membuat aktifitas dan fungsi dirinya menjadi sangat terbatas', 'labels': ['Outcome']}, {'start': 608, 'end': 632, 'text': 'perlu ditelisik mendalam', 'labels': ['Tindakan']}, {'start': 678, 'end': 711, 'text': 'misalnyaautism spectrum disorder,', 'labels': ['Penyakit']}, {'start': 711, 'end': 752, 'text': 'attention deficit hyperactivity disorder,', 'labels': ['Penyakit']}, {'start': 753, 'end': 776, 'text': 'keterbelakangan mental,', 'labels': ['Penyakit']}, {'start': 777, 'end': 798, 'text': 'gangguan kepribadian,', 'labels': ['Penyakit']}, {'start': 799, 'end': 821, 'text': 'gangguan skizoafektif,', 'labels': ['Penyakit']}, {'start': 822, 'end': 834, 'text': 'skizofrenia,', 'labels': ['Penyakit']}, {'start': 835, 'end': 849, 'text': 'cidera kepala,', 'labels': ['Penyakit']}]
+start_pointer:
+0
+end_pointer:
+382
+kalimat :Tidak bisa memilah ucapan yang baik dan tidak baik, sering bicara sendiri, kerap berbicara dan melakukan gerakan tubuh berulang-ulang, sulit konsentrasi, kemampuan berpikir logiknya kurang baik, tidak nyamuk saat diajak bicara, sulit bersosialisasi, dan terganggu kemampuan komunikasinya memang bisa saja masih merupakan variasi pola berpikir, bersikap, dan berperilaku yang wajar.
+labelnya:
+{'Predikat', 'Gejala'}
+
+
+start_pointer:
+382
+end_pointer:
+866
+kalimat :Akan tetapi, jika hal ini terasa sangat mengganggu orang disekitarnya, bertahan dalam waktu lama, apalagi sampai membuat aktifitas dan fungsi dirinya menjadi sangat terbatas padahal usianya sudah bukan lagi kanak-kanak, tentu perlu ditelisik mendalam kemungkinan faktor lain yang mempersulitnya, misalnyaautism spectrum disorder,attention deficit hyperactivity disorder, keterbelakangan mental, gangguan kepribadian, gangguan skizoafektif, skizofrenia, cidera kepala, dan sebagainya.
+labelnya:
+{'Outcome', 'Tindakan', 'Penyakit'}
+
+
+kalimat lengkap :
+Alo, terimakasih atas pertanyaannya.
+all label:
+[{'start': 0, 'end': 4, 'text': 'Alo,', 'labels': ['Pembuka']}, {'start': 5, 'end': 36, 'text': 'terimakasih atas pertanyaannya.', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+37
+kalimat :Alo, terimakasih atas pertanyaannya.
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Terima kasih dok
+all label:
+[{'start': 0, 'end': 16, 'text': 'Terima kasih dok', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+17
+kalimat :Terima kasih dok
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Entahlah menurut saya kurang masuk akal, jelas2 dia 'berbeda' dari orang normal. Masa iya dia tidak apa2? Saya hanya merasa ada suatu 'penyakit' di adik saya yang kami belum tahu, apa kelainannya sebenarnya.
+all label:
+[{'start': 81, 'end': 105, 'text': 'Masa iya dia tidak apa2?', 'labels': ['Pertanyaan']}]
+start_pointer:
+0
+end_pointer:
+81
+kalimat :Entahlah menurut saya kurang masuk akal, jelas2 dia 'berbeda' dari orang normal.
+labelnya:
+set()
+
+
+start_pointer:
+81
+end_pointer:
+106
+kalimat :Masa iya dia tidak apa2?
+labelnya:
+{'Pertanyaan'}
+
+
+start_pointer:
+106
+end_pointer:
+208
+kalimat :Saya hanya merasa ada suatu 'penyakit' di adik saya yang kami belum tahu, apa kelainannya sebenarnya.
+labelnya:
+set()
+
+
+kalimat lengkap :
+Karena kita sudah beberapa kali bawa ke psikolog, dan psikolog sudah menyatakan ia tidak kenapa2, hanya kurang bergaul.
+all label:
+[{'start': 12, 'end': 49, 'text': 'sudah beberapa kali bawa ke psikolog,', 'labels': ['Tindakan']}, {'start': 54, 'end': 97, 'text': 'psikolog sudah menyatakan ia tidak kenapa2,', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+120
+kalimat :Karena kita sudah beberapa kali bawa ke psikolog, dan psikolog sudah menyatakan ia tidak kenapa2, hanya kurang bergaul.
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+Menurut dokter, sebenarnya adik saya ini sakit apa ya? Kemana keluarga saya harus bawa ia berobat?
+all label:
+[{'start': 0, 'end': 54, 'text': 'Menurut dokter, sebenarnya adik saya ini sakit apa ya?', 'labels': ['Pertanyaan']}, {'start': 55, 'end': 98, 'text': 'Kemana keluarga saya harus bawa ia berobat?', 'labels': ['Pertanyaan']}]
+start_pointer:
+0
+end_pointer:
+55
+kalimat :Menurut dokter, sebenarnya adik saya ini sakit apa ya?
+labelnya:
+{'Pertanyaan'}
+
+
+start_pointer:
+55
+end_pointer:
+99
+kalimat :Kemana keluarga saya harus bawa ia berobat?
+labelnya:
+{'Pertanyaan'}
+
+
+kalimat lengkap :
+Misalnya, kami sedang liburan. Di tempat wisata, tiba2 dia bicara 'bu siska sudah married kan ya'? bu siska adalah salah satu mantan gurunya. Apa ya, ia suka bicara tiba2 yang tidak nyambung.
+all label:
+[{'start': 15, 'end': 30, 'text': 'sedang liburan.', 'labels': ['Kapan']}, {'start': 153, 'end': 191, 'text': 'suka bicara tiba2 yang tidak nyambung.', 'labels': ['Gejala']}]
+start_pointer:
+0
+end_pointer:
+31
+kalimat :Misalnya, kami sedang liburan.
+labelnya:
+{'Kapan'}
+
+
+start_pointer:
+31
+end_pointer:
+99
+kalimat :Di tempat wisata, tiba2 dia bicara 'bu siska sudah married kan ya'?
+labelnya:
+set()
+
+
+start_pointer:
+99
+end_pointer:
+142
+kalimat :bu siska adalah salah satu mantan gurunya.
+labelnya:
+set()
+
+
+start_pointer:
+142
+end_pointer:
+192
+kalimat :Apa ya, ia suka bicara tiba2 yang tidak nyambung.
+labelnya:
+{'Gejala'}
+
+
+kalimat lengkap :
+Yang berujung dia ini tidak bisa bersosialisasi, berpikir, dan berkomunikasi selayaknya orang normal.
+all label:
+[{'start': 5, 'end': 48, 'text': 'berujung dia ini tidak bisa bersosialisasi,', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+102
+kalimat :Yang berujung dia ini tidak bisa bersosialisasi, berpikir, dan berkomunikasi selayaknya orang normal.
+labelnya:
+{'Outcome'}
+
+
+kalimat lengkap :
+Sepertinya logikanya tidak berkembang dengan baik. Ia tidak tahu mana kata2 sopan dan mana yang tidak sopan (suka asal nyeplos), ia suka bicara sendiri, ia tidak bisa berkonsentrasi, logika tidak jalan. Bicara pun suka di ulang2. Ia juga suka melakukan gerakan tubuh berulang2.
+all label:
+[{'start': 11, 'end': 50, 'text': 'logikanya tidak berkembang dengan baik.', 'labels': ['Gejala']}, {'start': 54, 'end': 81, 'text': 'tidak tahu mana kata2 sopan', 'labels': ['Gejala']}, {'start': 132, 'end': 152, 'text': 'suka bicara sendiri,', 'labels': ['Gejala']}, {'start': 156, 'end': 182, 'text': 'tidak bisa berkonsentrasi,', 'labels': ['Gejala']}, {'start': 183, 'end': 202, 'text': 'logika tidak jalan.', 'labels': ['Gejala']}, {'start': 203, 'end': 229, 'text': 'Bicara pun suka di ulang2.', 'labels': ['Gejala']}, {'start': 238, 'end': 277, 'text': 'suka melakukan gerakan tubuh berulang2.', 'labels': ['Gejala']}]
+start_pointer:
+0
+end_pointer:
+51
+kalimat :Sepertinya logikanya tidak berkembang dengan baik.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+51
+end_pointer:
+203
+kalimat :Ia tidak tahu mana kata2 sopan dan mana yang tidak sopan (suka asal nyeplos), ia suka bicara sendiri, ia tidak bisa berkonsentrasi, logika tidak jalan.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+203
+end_pointer:
+230
+kalimat :Bicara pun suka di ulang2.
+labelnya:
+{'Gejala'}
+
+
+start_pointer:
+230
+end_pointer:
+278
+kalimat :Ia juga suka melakukan gerakan tubuh berulang2.
+labelnya:
+{'Gejala'}
+
+
+kalimat lengkap :
+Selamat sore dok. Saya punya adik, 17 thn, laki2, namun saya merasa daya pikir dia tidak berkembang dengan baik.
+all label:
+[{'start': 35, 'end': 42, 'text': '17 thn,', 'labels': ['Usia pasien']}, {'start': 43, 'end': 49, 'text': 'laki2,', 'labels': ['Pasien']}, {'start': 68, 'end': 99, 'text': 'daya pikir dia tidak berkembang', 'labels': ['Gejala']}]
+start_pointer:
+0
+end_pointer:
+18
+kalimat :Selamat sore dok.
+labelnya:
+set()
+
+
+start_pointer:
+18
+end_pointer:
+113
+kalimat :Saya punya adik, 17 thn, laki2, namun saya merasa daya pikir dia tidak berkembang dengan baik.
+labelnya:
+{'Pasien', 'Gejala', 'Usia pasien'}
+
+
+kalimat lengkap :
+Salam
+all label:
+[{'start': 0, 'end': 5, 'text': 'Salam', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+6
+kalimat :Salam
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Semoga membantu ya
+all label:
+[{'start': 0, 'end': 18, 'text': 'Semoga membantu ya', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+19
+kalimat :Semoga membantu ya
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+    Lakukan relaksasi dengan meditasi atau yoga
+all label:
+[{'start': 4, 'end': 21, 'text': 'Lakukan relaksasi', 'labels': ['Tindakan']}, {'start': 29, 'end': 37, 'text': 'meditasi', 'labels': ['Tindakan']}, {'start': 43, 'end': 47, 'text': 'yoga', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+48
+kalimat :    Lakukan relaksasi dengan meditasi atau yoga
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Lakukan olahraga rutin
+all label:
+[{'start': 4, 'end': 26, 'text': 'Lakukan olahraga rutin', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+27
+kalimat :    Lakukan olahraga rutin
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Cobalah lakukan kegiatan dengan perlahan, dapat diselingi dengan mendengarkan musik yang Anda sukai
+all label:
+[{'start': 12, 'end': 45, 'text': 'lakukan kegiatan dengan perlahan,', 'labels': ['Tindakan']}, {'start': 52, 'end': 87, 'text': 'diselingi dengan mendengarkan musik', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+104
+kalimat :    Cobalah lakukan kegiatan dengan perlahan, dapat diselingi dengan mendengarkan musik yang Anda sukai
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Cobalah saat hendak melakukan sesuatu, tulis di buku catatan ataunote hp Anda sehingga Anda dapat mengingat kegiatn apa yang belum dan sudah Anda lakukan
+all label:
+[{'start': 43, 'end': 64, 'text': 'tulis di buku catatan', 'labels': ['Tindakan']}, {'start': 82, 'end': 111, 'text': 'sehingga Anda dapat mengingat', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+158
+kalimat :    Cobalah saat hendak melakukan sesuatu, tulis di buku catatan ataunote hp Anda sehingga Anda dapat mengingat kegiatn apa yang belum dan sudah Anda lakukan
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+    Alihkan pikiran negatif ke kegiatan positif yang Anda senangi
+all label:
+[{'start': 4, 'end': 47, 'text': 'Alihkan pikiran negatif ke kegiatan positif', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+66
+kalimat :    Alihkan pikiran negatif ke kegiatan positif yang Anda senangi
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Hindari menyendiri
+all label:
+[{'start': 4, 'end': 22, 'text': 'Hindari menyendiri', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+23
+kalimat :    Hindari menyendiri
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Jika sulit bercerita, Anda dapat menuliskan nya didalam sebuah buku catatan
+all label:
+[{'start': 26, 'end': 51, 'text': 'Anda dapat menuliskan nya', 'labels': ['Tindakan']}, {'start': 67, 'end': 79, 'text': 'buku catatan', 'labels': ['Objek']}]
+start_pointer:
+0
+end_pointer:
+80
+kalimat :    Jika sulit bercerita, Anda dapat menuliskan nya didalam sebuah buku catatan
+labelnya:
+{'Objek', 'Tindakan'}
+
+
+kalimat lengkap :
+    Ceritakan kondis yang Anda Alami saat ini dengan orang yang Anda percayai seperti teman, saudara
+all label:
+[{'start': 4, 'end': 36, 'text': 'Ceritakan kondis yang Anda Alami', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+101
+kalimat :    Ceritakan kondis yang Anda Alami saat ini dengan orang yang Anda percayai seperti teman, saudara
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+    Istirahat yang cukup
+all label:
+[{'start': 4, 'end': 24, 'text': 'Istirahat yang cukup', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+25
+kalimat :    Istirahat yang cukup
+labelnya:
+{'Tindakan'}
+
+
+kalimat lengkap :
+Kondisi yang Anda alami saat ini juga dapat diakibatkan oleh beberapa kondisi lain seperti gangguan kecemasan, gangguan panik, PTSD(post traumatic stress disorder), depresi dan kondisi lainnya. Untuk mengetahui penyebab kondisi Anda saat ini, Anda dapat berkonsultasi dengan dokter psikiatri atau psikolog. Dokter akan melakukan pemeriksaan mulai dari wawancara singkat terkait kondisi Anda, pemeriksaan fisik dan pemeriksaan penunjang apabila diperlukan. Sehingga mengetahui penyebab kondisi Anda saat ini dan dapat diberikan penanganan yang sesuai.
+all label:
+[{'start': 91, 'end': 110, 'text': 'gangguan kecemasan,', 'labels': ['Penyebab']}, {'start': 111, 'end': 126, 'text': 'gangguan panik,', 'labels': ['Penyebab']}, {'start': 127, 'end': 164, 'text': 'PTSD(post traumatic stress disorder),', 'labels': ['Penyebab']}, {'start': 165, 'end': 193, 'text': 'depresi dan kondisi lainnya.', 'labels': ['Penyebab']}, {'start': 91, 'end': 110, 'text': 'gangguan kecemasan,', 'labels': ['Penyakit']}, {'start': 127, 'end': 132, 'text': 'PTSD(', 'labels': ['Penyakit']}, {'start': 132, 'end': 164, 'text': 'post traumatic stress disorder),', 'labels': ['Penyakit']}, {'start': 165, 'end': 172, 'text': 'depresi', 'labels': ['Penyakit']}, {'start': 254, 'end': 291, 'text': 'berkonsultasi dengan dokter psikiatri', 'labels': ['Tindakan']}, {'start': 319, 'end': 340, 'text': 'melakukan pemeriksaan', 'labels': ['Tindakan']}, {'start': 352, 'end': 361, 'text': 'wawancara', 'labels': ['Tindakan']}, {'start': 392, 'end': 409, 'text': 'pemeriksaan fisik', 'labels': ['Tindakan']}, {'start': 414, 'end': 455, 'text': 'pemeriksaan penunjang apabila diperlukan.', 'labels': ['Tindakan']}, {'start': 456, 'end': 497, 'text': 'Sehingga mengetahui penyebab kondisi Anda', 'labels': ['Outcome']}, {'start': 511, 'end': 550, 'text': 'dapat diberikan penanganan yang sesuai.', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+194
+kalimat :Kondisi yang Anda alami saat ini juga dapat diakibatkan oleh beberapa kondisi lain seperti gangguan kecemasan, gangguan panik, PTSD(post traumatic stress disorder), depresi dan kondisi lainnya.
+labelnya:
+{'Penyebab', 'Penyakit'}
+
+
+start_pointer:
+194
+end_pointer:
+307
+kalimat :Untuk mengetahui penyebab kondisi Anda saat ini, Anda dapat berkonsultasi dengan dokter psikiatri atau psikolog.
+labelnya:
+{'Tindakan'}
+
+
+start_pointer:
+307
+end_pointer:
+456
+kalimat :Dokter akan melakukan pemeriksaan mulai dari wawancara singkat terkait kondisi Anda, pemeriksaan fisik dan pemeriksaan penunjang apabila diperlukan.
+labelnya:
+{'Tindakan'}
+
+
+start_pointer:
+456
+end_pointer:
+551
+kalimat :Sehingga mengetahui penyebab kondisi Anda saat ini dan dapat diberikan penanganan yang sesuai.
+labelnya:
+{'Outcome'}
+
+
+kalimat lengkap :
+ADHD (attention deficit hyperactivity disorder) adalah gangguan mental dengan karakteristik berupa sulit untuk memusatkan perhatian dan hiperaktif yaitu sulit untuk berdiam diri dan cenderung bergerak.Biasanya hal ini akan muncul sejak dari usia anak sebelum 12 tahun.ADHD bisa juga menyerang remaja dan orang dewasa, tapi itu hanya jika orang tersebut memang sudah terkena ADHD dari kecil yang penyakitnya terus bertahan. Kondisi ADHD pada dewasa dengan tidak memiliki riwayat ADHD sebelumnya belum pernah terjadi. Sehingga perlu dipastikan apakah Anda memiliki riwayat ADHD sewaktu kecil ?
+all label:
+[{'start': 0, 'end': 4, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 6, 'end': 47, 'text': 'attention deficit hyperactivity disorder)', 'labels': ['Penyakit']}, {'start': 99, 'end': 131, 'text': 'sulit untuk memusatkan perhatian', 'labels': ['Gejala']}, {'start': 136, 'end': 146, 'text': 'hiperaktif', 'labels': ['Gejala']}, {'start': 153, 'end': 177, 'text': 'sulit untuk berdiam diri', 'labels': ['Gejala']}, {'start': 182, 'end': 201, 'text': 'cenderung bergerak.', 'labels': ['Gejala']}, {'start': 268, 'end': 272, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 283, 'end': 317, 'text': 'menyerang remaja dan orang dewasa,', 'labels': ['Outcome']}, {'start': 327, 'end': 373, 'text': 'hanya jika orang tersebut memang sudah terkena', 'labels': ['Prakondisi']}, {'start': 379, 'end': 389, 'text': 'dari kecil', 'labels': ['Periode']}, {'start': 431, 'end': 435, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 374, 'end': 378, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 478, 'end': 482, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 571, 'end': 575, 'text': 'ADHD', 'labels': ['Penyakit']}]
+start_pointer:
+0
+end_pointer:
+423
+kalimat :ADHD (attention deficit hyperactivity disorder) adalah gangguan mental dengan karakteristik berupa sulit untuk memusatkan perhatian dan hiperaktif yaitu sulit untuk berdiam diri dan cenderung bergerak.Biasanya hal ini akan muncul sejak dari usia anak sebelum 12 tahun.ADHD bisa juga menyerang remaja dan orang dewasa, tapi itu hanya jika orang tersebut memang sudah terkena ADHD dari kecil yang penyakitnya terus bertahan.
+labelnya:
+{'Penyakit', 'Outcome', 'Periode', 'Gejala', 'Prakondisi'}
+
+
+start_pointer:
+423
+end_pointer:
+516
+kalimat :Kondisi ADHD pada dewasa dengan tidak memiliki riwayat ADHD sebelumnya belum pernah terjadi.
+labelnya:
+{'Penyakit'}
+
+
+start_pointer:
+516
+end_pointer:
+592
+kalimat :Sehingga perlu dipastikan apakah Anda memiliki riwayat ADHD sewaktu kecil ?
+labelnya:
+{'Penyakit'}
+
+
+kalimat lengkap :
+Kami memahami perasaan Anda saat ini. Setiap orang pasti pernah mengalami kesedihan, namun kesedihan ini dapat membaik dan tidak berlangsung lama. Sesekali dapat muncul kembali rasa sedih tersebut apabila disertai dengan faktor pemicu nya. Namun jika terjadi gangguan aktivitas sehari-hari maka sebaiknya perlu dilakukan pemeriksaan dan evaluasi lebih lanjut.
+all label:
+[{'start': 91, 'end': 118, 'text': 'kesedihan ini dapat membaik', 'labels': ['Outcome']}, {'start': 197, 'end': 239, 'text': 'apabila disertai dengan faktor pemicu nya.', 'labels': ['Prakondisi']}, {'start': 156, 'end': 187, 'text': 'dapat muncul kembali rasa sedih', 'labels': ['Outcome']}, {'start': 251, 'end': 289, 'text': 'terjadi gangguan aktivitas sehari-hari', 'labels': ['Outcome']}, {'start': 305, 'end': 332, 'text': 'perlu dilakukan pemeriksaan', 'labels': ['Tindakan']}, {'start': 337, 'end': 359, 'text': 'evaluasi lebih lanjut.', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+38
+kalimat :Kami memahami perasaan Anda saat ini.
+labelnya:
+set()
+
+
+start_pointer:
+38
+end_pointer:
+147
+kalimat :Setiap orang pasti pernah mengalami kesedihan, namun kesedihan ini dapat membaik dan tidak berlangsung lama.
+labelnya:
+{'Outcome'}
+
+
+start_pointer:
+147
+end_pointer:
+240
+kalimat :Sesekali dapat muncul kembali rasa sedih tersebut apabila disertai dengan faktor pemicu nya.
+labelnya:
+{'Outcome', 'Prakondisi'}
+
+
+start_pointer:
+240
+end_pointer:
+360
+kalimat :Namun jika terjadi gangguan aktivitas sehari-hari maka sebaiknya perlu dilakukan pemeriksaan dan evaluasi lebih lanjut.
+labelnya:
+{'Outcome', 'Tindakan'}
+
+
+kalimat lengkap :
+Terima kasih telah bertanya di Alodokter.
+all label:
+[{'start': 0, 'end': 27, 'text': 'Terima kasih telah bertanya', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+42
+kalimat :Terima kasih telah bertanya di Alodokter.
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Alo Putri,
+all label:
+[{'start': 0, 'end': 3, 'text': 'Alo', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+11
+kalimat :Alo Putri,
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+best,
+all label:
+[{'start': 0, 'end': 5, 'text': 'best,', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+6
+kalimat :best,
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Saya seorang researcher tinggal dan sedang bertugas di Vietnam, semua hal diatas membuat saya sangat sulit untuk bekerja. Teman saya yang memiliki ADHD menyarankan untuk bertanya, apakah ada ADHD ceklist untuk mendiagnosa diri saya? dan apa yg bisa saya lakukan untuk menghilangkan/mengurangi rasa takut saya dan membantu saya untuk bisa fokus bekerja? Terimakasih sebelumnya dan mohon bantuannya.
+all label:
+[{'start': 81, 'end': 121, 'text': 'membuat saya sangat sulit untuk bekerja.', 'labels': ['Outcome']}, {'start': 147, 'end': 151, 'text': 'ADHD', 'labels': ['Penyakit']}, {'start': 180, 'end': 232, 'text': 'apakah ada ADHD ceklist untuk mendiagnosa diri saya?', 'labels': ['Pertanyaan']}, {'start': 233, 'end': 261, 'text': 'dan apa yg bisa saya lakukan', 'labels': ['Pertanyaan']}, {'start': 353, 'end': 375, 'text': 'Terimakasih sebelumnya', 'labels': ['Penutup']}, {'start': 380, 'end': 397, 'text': 'mohon bantuannya.', 'labels': ['Penutup']}, {'start': 282, 'end': 303, 'text': 'mengurangi rasa takut', 'labels': ['Outcome']}, {'start': 313, 'end': 352, 'text': 'membantu saya untuk bisa fokus bekerja?', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+122
+kalimat :Saya seorang researcher tinggal dan sedang bertugas di Vietnam, semua hal diatas membuat saya sangat sulit untuk bekerja.
+labelnya:
+{'Outcome'}
+
+
+start_pointer:
+122
+end_pointer:
+233
+kalimat :Teman saya yang memiliki ADHD menyarankan untuk bertanya, apakah ada ADHD ceklist untuk mendiagnosa diri saya?
+labelnya:
+{'Penyakit', 'Pertanyaan'}
+
+
+start_pointer:
+233
+end_pointer:
+353
+kalimat :dan apa yg bisa saya lakukan untuk menghilangkan/mengurangi rasa takut saya dan membantu saya untuk bisa fokus bekerja?
+labelnya:
+{'Outcome', 'Pertanyaan'}
+
+
+start_pointer:
+353
+end_pointer:
+398
+kalimat :Terimakasih sebelumnya dan mohon bantuannya.
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+2 minggu lalu beberapa keluarga dan teman saya meninggal dunia. Sejak saat itu, saya sangat sulit untuk: kembali fokus, saya juga sulit mengatur prioritas saya, saya sering sekali berhenti sejenak karena sedih, saya merasa mudah sekali terdistraksi dengan hal-hal kecil kemudian tidak bisa menyelesaikan tugas saya, sering sekali mengalami ketakutan tanpa tau sebabnya, saya juga sangat sulit tidur. Karena hal-hal ini saya sangat takut untuk memulai hari saya dipagi hari.
+all label:
+[{'start': 0, 'end': 13, 'text': '2 minggu lalu', 'labels': ['Kapan']}, {'start': 23, 'end': 63, 'text': 'keluarga dan teman saya meninggal dunia.', 'labels': ['Penyebab']}, {'start': 92, 'end': 119, 'text': 'sulit untuk: kembali fokus,', 'labels': ['Outcome']}, {'start': 130, 'end': 160, 'text': 'sulit mengatur prioritas saya,', 'labels': ['Outcome']}, {'start': 166, 'end': 210, 'text': 'sering sekali berhenti sejenak karena sedih,', 'labels': ['Outcome']}, {'start': 216, 'end': 248, 'text': 'merasa mudah sekali terdistraksi', 'labels': ['Outcome']}, {'start': 270, 'end': 315, 'text': 'kemudian tidak bisa menyelesaikan tugas saya,', 'labels': ['Outcome']}, {'start': 316, 'end': 369, 'text': 'sering sekali mengalami ketakutan tanpa tau sebabnya,', 'labels': ['Outcome']}, {'start': 370, 'end': 399, 'text': 'saya juga sangat sulit tidur.', 'labels': ['Outcome']}, {'start': 130, 'end': 160, 'text': 'sulit mengatur prioritas saya,', 'labels': ['Gejala']}, {'start': 166, 'end': 210, 'text': 'sering sekali berhenti sejenak karena sedih,', 'labels': ['Gejala']}, {'start': 216, 'end': 248, 'text': 'merasa mudah sekali terdistraksi', 'labels': ['Gejala']}, {'start': 279, 'end': 315, 'text': 'tidak bisa menyelesaikan tugas saya,', 'labels': ['Gejala']}, {'start': 330, 'end': 349, 'text': 'mengalami ketakutan', 'labels': ['Gejala']}, {'start': 380, 'end': 399, 'text': 'sangat sulit tidur.', 'labels': ['Gejala']}, {'start': 419, 'end': 455, 'text': 'saya sangat takut untuk memulai hari', 'labels': ['Outcome']}]
+start_pointer:
+0
+end_pointer:
+64
+kalimat :2 minggu lalu beberapa keluarga dan teman saya meninggal dunia.
+labelnya:
+{'Penyebab', 'Kapan'}
+
+
+start_pointer:
+64
+end_pointer:
+400
+kalimat :Sejak saat itu, saya sangat sulit untuk: kembali fokus, saya juga sulit mengatur prioritas saya, saya sering sekali berhenti sejenak karena sedih, saya merasa mudah sekali terdistraksi dengan hal-hal kecil kemudian tidak bisa menyelesaikan tugas saya, sering sekali mengalami ketakutan tanpa tau sebabnya, saya juga sangat sulit tidur.
+labelnya:
+{'Outcome', 'Gejala'}
+
+
+start_pointer:
+400
+end_pointer:
+474
+kalimat :Karena hal-hal ini saya sangat takut untuk memulai hari saya dipagi hari.
+labelnya:
+{'Outcome'}
+
+
+kalimat lengkap :
+Dokter,
+all label:
+[{'start': 0, 'end': 7, 'text': 'Dokter,', 'labels': ['Pembuka']}]
+start_pointer:
+0
+end_pointer:
+8
+kalimat :Dokter,
+labelnya:
+{'Pembuka'}
+
+
+kalimat lengkap :
+Salam
+all label:
+[{'start': 0, 'end': 5, 'text': 'Salam', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+6
+kalimat :Salam
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+Semoga membantu ya
+all label:
+[{'start': 0, 'end': 15, 'text': 'Semoga membantu', 'labels': ['Penutup']}]
+start_pointer:
+0
+end_pointer:
+19
+kalimat :Semoga membantu ya
+labelnya:
+{'Penutup'}
+
+
+kalimat lengkap :
+    Luangkan waktu bersama anak
+all label:
+[{'start': 4, 'end': 31, 'text': 'Luangkan waktu bersama anak', 'labels': ['Tindakan']}]
+start_pointer:
+0
+end_pointer:
+32
+kalimat :    Luangkan waktu bersama anak
+labelnya:
+{'Tindakan'}
+
